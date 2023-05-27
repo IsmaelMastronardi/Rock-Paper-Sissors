@@ -1,1 +1,1 @@
-# Rock-Paper-Sissors
+# simple rock, paper sissor game.
